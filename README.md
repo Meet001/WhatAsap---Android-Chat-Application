@@ -1,6 +1,3 @@
-160050001 : Meet Kathiriya
-160050024 : Shreyas Pimpalgaonkar
-
 Some general points :
 
 1. We have considered that uid and password to be not empty.
